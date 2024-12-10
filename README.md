@@ -16,11 +16,11 @@
 
 1. sudo apt update
 2. sudo apt install openjdk-17-jdk -y
-3. git clone https://github.com/sbi1024/api.git
-4. cd api
-5. ./gradlew clean build
-6. cd ~/api/build/libs
-7. sudo java -jar api-0.0.1-SNAPSHOT.jar
+3. git clone https://github.com/sbi1024/api-server-ec2.git
+5. cd api
+6. ./gradlew clean build
+7. cd ~/api/build/libs
+8. sudo java -jar api-0.0.1-SNAPSHOT.jar
 
 # 결과
 7번의 `sudo java -jar api-0.0.1-SNAPSHOT.jar` 실행후 port 80 으로 실행되는지 확인필요.
