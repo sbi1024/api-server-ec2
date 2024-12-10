@@ -7,8 +7,8 @@
 # 관련 블로그 글
 [[aws] ec2를 통해 백엔드 api 서버 배포하기 (1)](https://sbi1024.github.io/devops/aws/1) </br>
 [[aws] ec2를 통해 백엔드 api 서버 배포하기 (2)](https://sbi1024.github.io/devops/aws/2) </br>
-[[aws] route53을 통해 도메인 구매하고 연결하기](https://sbi1024.github.io/devops/aws/3) </br>
-[[aws] elb(load balance)에 https 연결하기](https://sbi1024.github.io/devops/aws/4) </br>
+[[aws] route53을 통해 도메인 구매하고 연결하기 (feat. ec2)](https://sbi1024.github.io/devops/aws/3) </br>
+[[aws] elb(load balance)에 https 연결하기 (feat. ec2)](https://sbi1024.github.io/devops/aws/4) </br>
 
 
 # 사용법
